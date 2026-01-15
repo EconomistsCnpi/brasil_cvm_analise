@@ -16,7 +16,6 @@ Plataforma de análise fundamentalista de ações brasileiras.
 ├── data/                   # Dados
 │   ├── raw/               # Dados brutos da CVM
 │   └── processed/         # Indicadores calculados
-├── notebooks/             # Análises exploratórias
 ├── main.py                # Ponto de entrada
 └── requirements.txt       # Dependências
 ```
