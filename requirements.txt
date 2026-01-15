@@ -1,0 +1,27 @@
+# Financial Analysis Platform - Dependencies
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+pyarrow>=12.0.0
+
+# Data collection
+wget>=3.2
+
+# Visualization & Dashboard
+shiny>=0.6.0
+shinywidgets>=0.2.0
+plotly>=5.15.0
+
+# BCB data (for Brazilian economic indicators)
+python-bcb>=0.2.0
+
+# Yahoo Finance (for stock quotes)
+yfinance>=0.2.28
+
+# MetaTrader 5 (Windows only - optional)
+# MetaTrader5>=5.0.45
+
+# Development
+ipykernel>=6.25.0
+jupyter>=1.0.0
